@@ -1,0 +1,49 @@
+.navbar-default .navbar-brand{
+    color: black;
+    opacity: 0.7;
+}
+body{
+    background: url(../images/ipad.jpg);
+    background-size: cover fixed;
+    background-position: center;
+    font-family: 'Catamaran', sans-serif;
+
+}
+.center{
+    text-align: center;
+    padding-top: 15%;
+}
+
+#login{
+    min-width: 250px;
+    background-color: rgba(255,255,255,0.7);
+    padding: 14px 14px 0;
+    
+}
+#login .social-buttons{
+    margin: 12px 0;
+}
+
+.btn-fb{
+    color: #fff;
+    background-color: #3b599d;
+  
+    
+    
+}
+.btn-tw{
+   color: #fff;
+    background-color: #55acee; 
+      
+
+}
+.btn-fb:hover{
+    color: #fff;
+    background-color: #3b599d;
+    opacity: 0.7;
+}
+.btn-tw:hover{
+   color: #fff;
+    background-color: #55acee; 
+    opacity: 0.7;
+}
